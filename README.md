@@ -18,4 +18,4 @@ JSON MART is an online retail website. Our aim is to provide users with a conven
 * **User Authentication:** Features a login page where a valid login is a prerequisite to adding items to the cart.
 
 ## Website Link
-You can access the live website here:[jsonmart.netlify.app](jsonmart.netlify.app)
+You can access the live website here:(jsonmart.netlify.app)
